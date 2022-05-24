@@ -4,7 +4,7 @@ Part of **Bangkit Academy 2022 by Google, GoTo, Traveloka** Capstone Project.
 ## Project Description
 In this part of the project, we develop a deep learning model for classifying freshness level of fruits and vegetables from input image.
 
-The model wil categorize an input from one of the following fruits or vegetables:
+The model wil categorize an input from the following fruits or vegetables:
 * Apple
 * Banana
 * Orange
@@ -12,7 +12,7 @@ The model wil categorize an input from one of the following fruits or vegetables
 * Leafy greens
 * Carrot
 
-with the following classes of freshness level:
+into one of the following classes of freshness level:
 * Fresh
 * Medium-fresh
 * Rotten
