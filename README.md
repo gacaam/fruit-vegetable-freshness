@@ -11,6 +11,7 @@ The model wil categorize an input from one of the following fruits or vegetables
 * Tomato
 * Leafy greens
 * Carrot
+
 with the following classes of freshness level:
 * Fresh
 * Medium-fresh
@@ -18,5 +19,5 @@ with the following classes of freshness level:
 
 ## Dataset
 The dataset used in this project are images of fruits and vegetables with varying degree of freshness. The dataset were collected from pictures taken by the team, and from the following public sources:
-https://data.mendeley.com/datasets/6ps7gtp2wg/1
-https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables
+<br>https://data.mendeley.com/datasets/6ps7gtp2wg/1
+<br>https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables
