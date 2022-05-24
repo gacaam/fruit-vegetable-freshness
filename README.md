@@ -11,6 +11,7 @@ The model wil categorize an input from one of the following fruits or vegetables
 * Tomato
 * Leafy greens
 * Carrot
+
 with the following classes of freshness level:
 * Fresh
 * Medium-fresh
